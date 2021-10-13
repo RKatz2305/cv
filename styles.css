@@ -1,0 +1,12 @@
+body{
+  background-color: #BFD8B8;
+}
+
+hr{
+  border-style:none;
+  border-top-style:dotted;
+  border-color: #2F5241;
+  border-width: 8px;
+  width: 10%;
+       }
+h1{color: #2F5241;}
